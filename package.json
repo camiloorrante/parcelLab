@@ -1,0 +1,19 @@
+{
+  "name": "parcellab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "jade": "^1.11.0",
+    "parcellab-api": "^1.1.7",
+    "line-by-line": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "camilo orrante",
+  "license": "ISC"
+}
